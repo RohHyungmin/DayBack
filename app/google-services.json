@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "332366141141",
+    "project_id": "daybacksecond"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332366141141:android:83d0722805b1cc70",
+        "android_client_info": {
+          "package_name": "com.example.davidcoverdale.dayback_second"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332366141141-qgcp6rstmkroufakrcni92phq7np5ju0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.davidcoverdale.dayback_second",
+            "certificate_hash": "a531fb5ad62a001dc54a7d00bd8f35fe87ddc221"
+          }
+        },
+        {
+          "client_id": "332366141141-4592q34tg4uockpgskh4rdqabm641geb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVUi2JGmDmzpfhsCZtQr3XmCbXLrTJlDs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
